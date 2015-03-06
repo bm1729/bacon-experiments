@@ -1,0 +1,23 @@
+{
+  "name": "bacon-experiments",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "preinstall": "bower install",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bm1729/bacon-experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bm1729/bacon-experiments/issues"
+  },
+  "homepage": "https://github.com/bm1729/bacon-experiments",
+  "dependencies": {
+    "connect": "^3.3.4",
+    "serve-static": "^1.9.1"
+  }
+}
