@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+div#gameBoard div {
+  margin: 4px;
+  height: 100px;
+  width: 100px;
+}
+
+div.red {
+  background-color: red;
+}
+
+div.blue {
+  background-color: blue;
+}
